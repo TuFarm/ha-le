@@ -41,9 +41,9 @@ $(function()
 		url: "Musics/BienTinh.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Hà Nhi",
 		name: "Dĩ Vãng Nhạt Nhoà",
-		url: "Musics/DiVangNhatNhoa.mp3",
+		url: "Musics/DiVangNhatNhoa_HaNhi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
         artist: "Ca sĩ không xác định",
@@ -56,7 +56,7 @@ $(function()
 		url: "Musics/TuoiDaBuon.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Khánh Ly cover",
 		name: "Một Cõi Đi Về",
 		url: "Musics/ConTuoiNaoChoEm.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
@@ -71,62 +71,67 @@ $(function()
 		url: "Musics/ChiRiengMinhTa.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
-		name: "Tay Trái Chỉ Mặt Trăng",
+        artist: "Tát Đỉnh Đỉnh",
+		name: "Tay Trái Chỉ Trăng",
 		url: "Musics/TayTraiChiMatTrang.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Mr.T ft Yanbi & Hằng Bingboong",
 		name: "Thu Cuối",
 		url: "Musics/ThuCuoi.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Wanbi Tuấn Anh",
 		name: "Đôi Mắt",
 		url: "Musics/DoiMat.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Mỹ Anh ft Khắc Hưng",
 		name: "Real Love",
 		url: "Musics/RealLove.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Thịnh Suy",
 		name: "Chuyện Rằng",
 		url: "Musics/ChuyenRang.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "W/n",
 		name: "3107",
 		url: "Musics/3107.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
-    }, {
-        artist: "Ca sĩ không xác định",
+    },{
+        artist: "W/n",
 		name: "3107 - 2",
 		url: "Musics/3107-2.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "W/n",
+		name: "3107 - Full 1 2 3 4",
+		url: "Musics/3107Full1-2-3-4.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    }, {
+        artist: "Da LAB",
 		name: "Gác Lại Âu Lo",
 		url: "Musics/GacLaiAuLo.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Fujii Kaze",
 		name: "Shinunoga Ewa",
 		url: "Musics/ShinunogaEwa.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Bobby Darin",
 		name: "Mack The Knife",
 		url: "Musics/Mack the Knife.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Mad Clown",
 		name: "Once Again",
 		url: "Musics/onceAgain.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }, {
-        artist: "Ca sĩ không xác định",
+        artist: "Tiger JK",
 		name: "Reset",
 		url: "Musics/Reset.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
@@ -134,6 +139,16 @@ $(function()
         artist: "Hà Anh Tuấn",
 		name: "Tháng Tư Là Lời Nói Dối Của Em",
 		url: "Musics/ThangTuLaLoiNoiDoiCuaEm.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    }, {
+        artist: "BTS",
+		name: "Spring Day",
+		url: "Musics/SpringDay.mp3",
+		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
+    }, {
+        artist: "Avin Lu ft Suni Hạ Linh",
+		name: "Nắng Thuỷ Tinh",
+		url: "Musics/NangThuyTinh.mp3",
 		picture: "https://raw.githubusercontent.com/himalayasingh/music-player-1/master/img/_1.jpg"
     }
 ];
